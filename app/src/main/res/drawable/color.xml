@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
 
-</selector>
+    <stroke
+android:width="5dp"
+        android:color="#01d0ff"
+
+
+
+
+        ></stroke>
+
+<gradient
+android:startColor="#0066ff"
+android:endColor="#7c05fbff"
+
+    ></gradient>
+
+    <corners
+android:radius="20dp"
+
+
+        ></corners>
+
+
+
+
+</shape>

@@ -18,6 +18,6 @@ public class MainActivity extends AppCompatActivity {
                 Intent Ventana2= new Intent(MainActivity.this,Main2Activity.class);
                 startActivity(Ventana2);
             }
-        },5000);
+        },3000);
     }
 }
